@@ -1,4 +1,4 @@
-package by.onliner;
+package by.onliner.login;
 
 public class LoginMessage {
     public static final String ENTER_A_NICKNAME_OR_EMAIL = "Укажите ник или e-mail";

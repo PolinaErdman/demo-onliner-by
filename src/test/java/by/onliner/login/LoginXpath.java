@@ -1,4 +1,4 @@
-package by.onliner;
+package by.onliner.login;
 
 public class LoginXpath {
     public static final String BUTTON_SIGN_IN_LOCATOR = "//div[@class='auth-bar__item auth-bar__item--text']";
